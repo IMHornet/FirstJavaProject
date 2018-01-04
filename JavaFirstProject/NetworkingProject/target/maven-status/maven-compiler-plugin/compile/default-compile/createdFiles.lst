@@ -1,0 +1,14 @@
+com\myproject\fields\FileContentField.class
+com\myproject\common\Message.class
+com\myproject\fields\FileNameField.class
+com\myproject\utils\FileUtil.class
+com\myproject\common\Field.class
+com\myproject\fields\IdField.class
+com\myproject\fields\RefIdField.class
+com\myproject\protocols\AProtocol.class
+com\myproject\common\PropertiesManagment.class
+com\myproject\fields\VersionField.class
+com\myproject\common\Message$MessageBuilder.class
+com\myproject\common\ProtocolField.class
+com\myproject\fields\DataLengthField.class
+com\myproject\protocols\SimpleProtocol.class
